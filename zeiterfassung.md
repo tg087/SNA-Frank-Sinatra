@@ -8,7 +8,7 @@ tg087
 ## Vorlage für Eintragungen 
 
 Die Zeiterfassung wird nach folgendem Muster von den Gruppenmitgliedern
-unter ihren Kürzeln eingetragen:
+unter ihren Kürzeln eingetragen:\ 
 **Datum,Aufgabe,Dauer**
 
 ## tg087
