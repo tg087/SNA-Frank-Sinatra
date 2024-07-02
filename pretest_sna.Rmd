@@ -1,0 +1,44 @@
+---
+title: "petrest_sinatra"
+author: "Tom Geyer"
+date: "2024-06-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(igraph)
+library(tidygraph)
+library(tidyverse)
+library(manynet)
+```
+
+```{r Netzwerk einlesen}
+
+# edgelist
+el <- read.csv("https://raw.githubusercontent.com/tg087/SNA-Frank-Sinatra/main/pretest_edgelist.csv")
+
+# Nodelist
+nl <- read.csv("https://raw.githubusercontent.com/tg087/SNA-Frank-Sinatra/main/pretest_nodelist.csv")
+
+# erstellt das Netzwerk als tidygraph-Objekt
+n <- tbl_graph(nodes = nl, edges = el, directed = TRUE)
+
+# Netzwerk aufrufen
+n
+```
+
+```{r Visualisierung, fig.height=6, fig.width=9}
+
+plot(n,
+  asp = 0,
+  vertex.size = degree(n)*1.75,
+  vertex.color="red",
+  vertex.label = V(n)$id_name,
+  vertex.label.color = "black",
+  edge.arrow.size=.2,
+  edge.arrow.color="grey",
+  main="Pretest Netzwerk Sinatra & Mafia"
+     )
+
+```
