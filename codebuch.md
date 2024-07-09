@@ -54,6 +54,7 @@ Art der Aktivität die die beiden Knoten verbindet
 (eindeutige Codierung jedes Akteurs/Knotens)  
 codiert als Kürzel bestehend aus den ersten beiden Buchstaben von Vor-
 und Nachname (Frank Sinatra -\> frsa)
+Wenn sich ids doppeln, wird der dritte Buchstabe des Nachnamens hinzugefügt.
 
 **name**  
 Name der Person/Organisation
