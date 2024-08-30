@@ -12,6 +12,7 @@ unter ihren Kürzeln eingetragen:<br>
 **Datum,Aufgabe,Dauer**
 
 ## tg087
+30.08.2023,Edge- und Nodelist überarbeiten,30min
 
 ## la048
 
