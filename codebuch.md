@@ -41,16 +41,16 @@ Besteht zwischen den beiden Akteuren eine freundschaftliche/soziale Beziehung?
 1 = ja  
 2 = nein  
 
-**family**
-Besteht zwischen den beiden Akteuren eine familiäre Beziehung?
-1 = ja
-2 = nein
-
-**work**
-Art der geschäftlichen Zusammenarbeit der Akteure
-1 = legal
-2 = illegal
-3 = keine
+**family**  
+Besteht zwischen den beiden Akteuren eine familiäre Beziehung?  
+1 = ja  
+2 = nein  
+  
+**work**  
+Art der geschäftlichen Zusammenarbeit der Akteure  
+1 = legal  
+2 = illegal  
+3 = keine  
 
 **activity**  
 Art der Aktivität die die beiden Knoten verbindet  
@@ -58,7 +58,7 @@ Art der Aktivität die die beiden Knoten verbindet
 2 = Überfall  
 3 = Mord
 
-**year**
+**year**  
 Jahr in dem die Verbindung zustande kam als Zahl
 
 ## Node-Attribute
@@ -75,11 +75,11 @@ Name der Person/Organisation
 **nickname**  
 Gängigster Spitzname/Mafiabezeichnung der Person
 
-**job**
-Haupttätigkeit der Person
-1 = Künstler
-2 = Mafia
-3 = Manager
+**job**  
+Haupttätigkeit der Person  
+1 = Künstler  
+2 = Mafia  
+3 = Manager  
 
 **sex**  
 Geschlecht der Person  
