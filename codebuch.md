@@ -36,17 +36,30 @@ Treffen zwischen den beiden Akteuren
 2 = starke Beziehung  
 3 = sehr starke Beziehung  
 
-**relationship**  
-Art der sozialen Beziehung der beiden Akteure  
-1 = Arbeit  
-2 = Freunde  
-3 = Familie
+**friendship**  
+Besteht zwischen den beiden Akteuren eine freundschaftliche/soziale Beziehung?  
+1 = ja  
+2 = nein  
+
+**family**
+Besteht zwischen den beiden Akteuren eine familiäre Beziehung?
+1 = ja
+2 = nein
+
+**work**
+Art der geschäftlichen Zusammenarbeit der Akteure
+1 = legal
+2 = illegal
+3 = keine
 
 **activity**  
 Art der Aktivität die die beiden Knoten verbindet  
 1 = Drohung  
 2 = Überfall  
 3 = Mord
+
+**year**
+Jahr in dem die Verbindung zustande kam als Zahl
 
 ## Node-Attribute
 
@@ -56,11 +69,17 @@ codiert als Kürzel bestehend aus den ersten beiden Buchstaben von Vor-
 und Nachname (Frank Sinatra -\> frsa) <br>
 Wenn sich ids doppeln, wird der dritte Buchstabe des Nachnamens hinzugefügt.
 
-**name**  
+**id_name**  
 Name der Person/Organisation
 
 **nickname**  
 Gängigster Spitzname/Mafiabezeichnung der Person
+
+**job**
+Haupttätigkeit der Person
+1 = Künstler
+2 = Mafia
+3 = Manager
 
 **sex**  
 Geschlecht der Person  
