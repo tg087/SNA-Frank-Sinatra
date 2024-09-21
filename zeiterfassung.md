@@ -12,7 +12,8 @@ unter ihren Kürzeln eingetragen:<br>
 **Datum,Aufgabe,Dauer**
 
 ## tg087
-30.08.2023,Edge- und Nodelist überarbeiten,30min
+30.08.2024,Edge- und Nodelist überarbeiten,30min  
+21.09.2024,gemeinsame Besprechung & Überarbeitung von Edge- und Nodelist,90min
 
 ## la048
 
