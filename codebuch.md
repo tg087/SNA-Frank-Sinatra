@@ -9,7 +9,7 @@ Tom Geyer
 
 Das Netzwerk umfasst die Verbindungen zwischen **Frank Sinatra** und
 verschiedenen Akteuren innerhalb der **italienisch-amerikanischen
-Mafia**. Es beinhaltet die sozielen und geschäftlichen Beziehungen von
+Mafia** von 1943 bis 1985. Es beinhaltet die sozialen und geschäftlichen Beziehungen von
 Sinatra und den Mitgliedern der organisierten Kriminalität und der Unterhaltungsbranche.
 Datengrundlage bilden historische Dokumente wie die veröffentlichten
 **FBI-Akten** von Fällen rund um Sinatra und Mafia-Akteure. Hinzu kommen
