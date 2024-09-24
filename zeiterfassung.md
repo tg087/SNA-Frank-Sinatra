@@ -13,7 +13,7 @@ unter ihren Kürzeln eingetragen:<br>
 
 ## tg087
 30.08.2024,Edge- und Nodelist überarbeiten,30min  
-21.09.2024,gemeinsame Besprechung & Überarbeitung von Edge- und Nodelist,90min
+21.09.2024,gemeinsame Besprechung & Überarbeitung von Edge- und Nodelist,90min  
 23.06.,Datenerhebung,360min 
 
 ## la048
