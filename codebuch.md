@@ -36,11 +36,6 @@ Treffen zwischen den beiden Akteuren
 2 = starke Beziehung  
 3 = sehr starke Beziehung  
 
-**friendship**  
-Besteht zwischen den beiden Akteuren eine freundschaftliche/soziale Beziehung?  
-1 = ja  
-2 = nein  
-
 **family**  
 Besteht zwischen den beiden Akteuren eine familiäre Beziehung?  
 1 = ja  
