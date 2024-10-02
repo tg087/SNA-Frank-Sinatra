@@ -75,6 +75,7 @@ Haupttätigkeit der Person
 1 = Künstler  
 2 = Mafia  
 3 = Manager  
+4 = Sonstiges
 
 **sex**  
 Geschlecht der Person  
