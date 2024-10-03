@@ -51,7 +51,9 @@ Art der geschäftlichen Zusammenarbeit der Akteure
 Art der Aktivität die die beiden Knoten verbindet  
 1 = Drohung  
 2 = Überfall  
-3 = Mord
+3 = Mord  
+4 = Profit  
+5 = Freundschaft
 
 **year**  
 Jahr in dem die Verbindung zustande kam als Zahl
