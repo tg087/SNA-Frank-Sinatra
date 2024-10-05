@@ -53,7 +53,8 @@ Art der Aktivität die die beiden Knoten verbindet
 2 = Überfall  
 3 = Mord  
 4 = Profit  
-5 = Freundschaft
+5 = Freundschaft  
+6 = Kontakt
 
 **year**  
 Jahr in dem die Verbindung zustande kam als Zahl
