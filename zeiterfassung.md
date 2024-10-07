@@ -18,6 +18,8 @@ unter ihren Kürzeln eingetragen:<br>
 24.06.2024,Besprechung zur Datenerhebung,90min  
 02.10.2024,Datenerhebung,120min  
 03.10.2024,Datenerhebung,300min  
+05.10.2024,gemeinsame Besprechung,60min  
+07.10.2024,Datenbereinigung Nodelist & Erstellen iGraph Objekt,180min  
 
 ## la048
 
