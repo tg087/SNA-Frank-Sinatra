@@ -20,9 +20,9 @@ moda,Morris Barney Dalitz,Moe,2,2,2,89,Las Vegas,NV,1
 anac,Anthony Joseph Accardo,Tony,2,2,3,86,Chicago,IL,1
 avga,Ava Lavinia Gardner,Ava Gardner,1,1,1,67,Los Angeles,LA,1
 jokl,Joseph Klewan,Joe E. Lewis,1,2,1,69,Chicago,IL,1
-joke,John Fitzgerald Kennedy,JFK,4,2,1,46,"Washington, D.C.",WA,1
+joke,John Fitzgerald Kennedy,JFK,4,2,1,46,"Washington D.C.",WA,1
 dicr,Dino Crocetti,Dean Martin,1,2,1,78,Las Vegas,NV,1
-sada,"Samuel George Davis, Jr",Sammy,1,2,1,64,Los Angeles,CA,1
+sada,"Samuel George Davis,Jr",Sammy,1,2,1,64,Los Angeles,CA,1
 peay,Peter Sydney Ernest Aylen,Peter Lawford,1,2,1,61,Los Angeles,CA,1
 nomo,Norma Jeane Mortenson,Marilyn Monroe,1,1,1,36,Los Angeles,CA,1
 hubo,Humphrey DeForest Bogart,0,1,2,1,57,Los Angeles,CA,1
@@ -53,7 +53,7 @@ naba,Nancy Barbato Sinatra,0,4,1,1,101,Jersey City,NJ,1
 haja,Harry Haag James,James,1,2,1,67,Los Angeles,CA,1
 todo,Thomas Francis Dorsey,Tommy Dorsey,1,2,1,51,New York City,NY,1
 odst,Odd Stordahl,Axel Stordahl,1,2,1,50,New York City,NY,1
-neri,"Nelson Smock Riddle, Jr",0,1,2,1,64,0,0,1
+neri,Nelson Smock Riddle Jr,0,1,2,1,64,0,0,1
 core,Columbia Records,0,0,0,0,0,New York City,NY,3
 mimi,Mitchell William Miller,Mitch,3,2,1,0,New York City,NY,1
 ande,Aniello John Dellacroce,Mr. Neil,2,2,2,71,New York City,NY,1
@@ -91,12 +91,12 @@ chlo,Charles Hall Locher,Jon Hall,1,2,1,64,Los Angeles,CA,1
 jofi,Joseph Fischetti,0,2,2,2,73,Chicago,IL,1
 chou,Chicago Outfit,0,0,0,0,0,Chicago,IL,2
 abzw,Abner Zwillman,Longy,2,2,2,54,New York City,NY,1
-frro,Franklin Delano Roosevelt,0,4,2,1,63,"Washington, D.C.",WA,1
+frro,Franklin Delano Roosevelt,0,4,2,1,63,Washington D.C.,WA,1
 roha,Robert E. Hannegan,0,4,2,1,46,St. Louis,MO,1
 bedo,Bella Dodd,0,4,1,1,65,New York City,NY,1
 adgr,Adrian Adolph Greenberg,Gilbert Adrian,4,2,1,76,Los Angeles,CA,1
 vima,Vito Anthony Marcantonio,Vito,4,2,1,51,New York City,NY,1
-edro,Edith Roosevelt,First Lady,4,1,1,87,"Washington, D.C.",WA,1
+edro,Edith Roosevelt,First Lady,4,1,1,87,Washington D.C.,WA,1
 abwe,Abraham B. Weinstein,0,4,2,1,0,0,0,1
 euke,Eugene Curran Kelly,Gene,1,2,1,83,Los Angeles,CA,1
 bobu,Bobby Burns,0,1,2,1,72,New York City,NY,1
@@ -159,7 +159,7 @@ onca,Onofrio James Cavera Jr.,Big Jimmy,0,2,0,0,0,0,1
 frgu,Francesco Guglielmini,0,0,2,0,0,0,0,1
 jogu,Joseph Guarnera,0,0,2,0,0,0,0,1
 raca,Raffaele James Capone,Bottles,2,2,2,80,Chicago,IL,1
-wimo,"William Morris Agency, Inc.",0,0,0,0,0,0,0,3
+wimo,William Morris Agency Inc.,0,0,0,0,0,0,0,3
 orsh,Captain Orest Shevtzov,0,0,2,0,0,0,0,1
 cono,Cosa Nostra,sizilianische Mafia,0,0,0,0,New York City,NY,2
 phgu,Phyllis Mc Guire,0,1,2,1,89,New York City,NY,1
