@@ -288,7 +288,7 @@ satr,cono,3,2,2,NA,1962
 cono,satr,3,2,2,NA,1962
 satr,trfa,3,1,2,NA,1962
 trfa,satr,3,1,2,NA,1962
-cama ,cono,3,2,2,NA,1962
+cama,cono,3,2,2,NA,1962
 cono,cama,3,2,2,NA,1962
 cama,neor,3,1,2,NA,1962
 neor,cama,3,1,2,NA,1962
@@ -297,7 +297,7 @@ hesa,frsi,3,2,1,4,1962
 frsi,sagi,3,2,1,4,1962
 sagi,frsi,3,2,1,4,1962
 frsi,sada,3,2,2,4,1962
-sada ,frsi,3,2,2,4,1962
+sada,frsi,3,2,2,4,1962
 frsi,dicr,3,2,2,4,1962
 dicr,frsi,3,2,2,4,1962
 frsi,sagi,3,2,3,NA,1963
@@ -371,8 +371,8 @@ frsi,moda,1,2,3,5,1964
 moda,frsi,1,2,3,5,1964
 frsi,mial,2,2,3,5,1964
 mial,frsi,2,2,3,5,1964
-frsi,joki,3,2,1,,1965
-joki,frsi,3,2,1,,1965
+frsi,joki,3,2,1,NA,1965
+joki,frsi,3,2,1,NA,1965
 frsi,frwe,1,2,3,2,1966
 frwe,frsi,1,2,3,2,1966
 frsi,dicr,3,2,3,6,1966
@@ -394,7 +394,6 @@ frsi,miru,2,2,1,NA,1970
 miru,frsi,2,2,1,NA,1970
 ande,caga,1,2,2,6,1972
 caga,ande,1,2,2,6,1972
-josi,josi,1,NA,2,6,1972
 caga,japo,2,NA,2,6,1972
 josi,ande,1,NA,2,6,1972
 ande,josi,2,NA,3,6,1972
@@ -427,7 +426,7 @@ joba,frsi,1,2,3,1,1972
 frwei,frsi,1,2,3,1,1974
 frwei,erri,1,2,3,1,1974
 frwei,jear,1,2,3,1,1974
-frsi,jony,1,2,NA,6,1959-1962
+frsi,jony,1,2,NA,6,1959
 jape,papr,2,2,1,5,NA
 jape,frta,2,2,1,5,NA
 frta,papr,2,2,1,5,NA
