@@ -14,8 +14,8 @@ hesa,Henry William Sanicola,Hank Sanicola,3,2,1,60,New York City,NY,1
 cape,Carmine John Persico,The Snake,2,2,3,86,New York City,NY,1
 meco,Meyer Harris Cohen,Mickey,2,2,2,63,Los Angeles,CA,1
 dara,David Beryl Rasofsky,Barney Ross,2,2,1,58,Las Vegas,CA,1
-frfi,Fred F. Finklehoffe,NA,1,2,1,67,Los Angeles,CA,1
-jafa,James Farentino,NA,1,2,1,73,Los Angeles,CA,1
+frfi,Fred F. Finklehoffe,0,1,2,1,67,Los Angeles,CA,1
+jafa,James Farentino,0,1,2,1,73,Los Angeles,CA,1
 moda,Morris Barney Dalitz,Moe,2,2,2,89,Las Vegas,NV,1
 anac,Anthony Joseph Accardo,Tony,2,2,3,86,Chicago,IL,1
 avga,Ava Lavinia Gardner,Ava Gardner,1,1,1,67,Los Angeles,LA,1
@@ -25,165 +25,165 @@ dicr,Dino Crocetti,Dean Martin,1,2,1,78,Las Vegas,NV,1
 sada,"Samuel George Davis, Jr",Sammy,1,2,1,64,Los Angeles,CA,1
 peay,Peter Sydney Ernest Aylen,Peter Lawford,1,2,1,61,Los Angeles,CA,1
 nomo,Norma Jeane Mortenson,Marilyn Monroe,1,1,1,36,Los Angeles,CA,1
-hubo,Humphrey DeForest Bogart,NA,1,2,1,57,Los Angeles,CA,1
-nasi,Nancy Sandra Sinatra,NA,1,1,1,NA,Jersey City,NJ,1
+hubo,Humphrey DeForest Bogart,0,1,2,1,57,Los Angeles,CA,1
+nasi,Nancy Sandra Sinatra,0,1,1,1,0,Jersey City,NJ,1
 sasi,Saverio Antonino Martino Sinatra,Anthony Martin Sinatra,4,2,1,76,Hoboken,NJ,1
 naga,Natalina Maria Vittoria Garaventa,Dolly Sinatra,4,1,1,80,Hoboken,NJ,1
-nehe,Neal Hefti,NA,1,2,1,85,Los Angeles,CA,1
+nehe,Neal Hefti,0,1,2,1,85,Los Angeles,CA,1
 edel,Edward Kennedy Ellington,Duke,1,2,1,75,New York City,NY,1
 jawi,James Witherspoon,Spoon,1,2,1,74,Los Angeles,CA,1
 bewe,Benjamin Francis Webster,Ben,1,2,1,64,New York City,NY,1
-frros,Frank Rosolino,NA,1,2,1,52,NA,NA,1
+frros,Frank Rosolino,0,1,2,1,52,0,0,1
 jash,"Jack Sheldon
-",NA,1,2,1,88,Los Angeles,CA,1
+",0,1,2,1,88,Los Angeles,CA,1
 foha,Foreststorn Hamilton,Chico,1,2,1,92,Los Angeles,CA,1
-wiba,William Allen Basie,Count Basie,1,2,1,79,NA,NA,1
-jogi,John Berks Gillespie,NA,1,2,1,76,NA,NA,1
+wiba,William Allen Basie,Count Basie,1,2,1,79,0,0,1
+jogi,John Berks Gillespie,0,1,2,1,76,0,0,1
 johe,John Carl Hendricks,Jon,1,2,1,96,New York City,NY,1
 mari,Mavis Chloe Rivers,Rivers,1,1,1,63,Los Angeles,CA,1
-boli,Bowdie Glenn Lipscomb,Mance Lipscomb,1,2,1,80,NA,NA,1
+boli,Bowdie Glenn Lipscomb,Mance Lipscomb,1,2,1,80,0,0,1
 caga,Carlo Gambino,Don Carlo,2,2,3,74,New York City,NY,1
 alfr,Aladena James Fratianno,Jimmy the Weasel,2,2,3,79,Los Angeles,CA,1
-grde,Gregory J. DePalma,NA,2,2,3,77,Los Angeles,CA,1
+grde,Gregory J. DePalma,0,2,2,3,77,Los Angeles,CA,1
 frsi,Francis Albert Sinatra,The Voice,1,2,1,82,New York City,NY,1
-jape,James Petrozelli,NA,1,2,1,71,NA,NA,1
-papr,Patrick Principe,NA,1,2,1,NA,NA,NA,1
-frta,Fred Tamburro,Freddie Tamby,1,2,1,NA,Hoboken,NJ,1
-naba,Nancy Barbato Sinatra,NA,4,1,1,101,Jersey City,NJ,1
+jape,James Petrozelli,0,1,2,1,71,0,0,1
+papr,Patrick Principe,0,1,2,1,0,0,0,1
+frta,Fred Tamburro,Freddie Tamby,1,2,1,0,Hoboken,NJ,1
+naba,Nancy Barbato Sinatra,0,4,1,1,101,Jersey City,NJ,1
 haja,Harry Haag James,James,1,2,1,67,Los Angeles,CA,1
 todo,Thomas Francis Dorsey,Tommy Dorsey,1,2,1,51,New York City,NY,1
 odst,Odd Stordahl,Axel Stordahl,1,2,1,50,New York City,NY,1
-neri,"Nelson Smock Riddle, Jr",NA,1,2,1,64,NA,NA,1
-core,Columbia Records,NA,NA,NA,NA,NA,New York City,NY,3
-mimi,Mitchell William Miller,Mitch,3,2,1,NA,New York City,NY,1
+neri,"Nelson Smock Riddle, Jr",0,1,2,1,64,0,0,1
+core,Columbia Records,0,0,0,0,0,New York City,NY,3
+mimi,Mitchell William Miller,Mitch,3,2,1,0,New York City,NY,1
 ande,Aniello John Dellacroce,Mr. Neil,2,2,2,71,New York City,NY,1
-mere,Mercury Records,NA,NA,NA,NA,NA,Chicago,IL,3
-rowe,Robert M. Weitman,NA,3,2,1,76,NA,NA,1
+mere,Mercury Records,0,0,0,0,0,Chicago,IL,3
+rowe,Robert M. Weitman,0,3,2,1,76,0,0,1
 shlu,Shirley Luster,June Christy,1,2,1,53,Springfield,IL,1
-gemu,George Lloyd Murphy,George Murphy,1,2,NA,89,New York City,NY,1
-care,Capitol Records,NA,NA,NA,NA,NA,Los Angeles,CA,3
-metr,Merle Travis,NA,1,2,1,65,Los Angeles,CA,1
-rere,Reprise Records,NA,NA,NA,NA,NA,Los Angeles,CA,3
-gafa,Gambino-Familie,NA,NA,NA,NA,NA,New York City,NY,2
-josi,Joseph Sica,Joe Paris,NA,2,NA,71,New York City,NY,1
+gemu,George Lloyd Murphy,George Murphy,1,2,0,89,New York City,NY,1
+care,Capitol Records,0,0,0,0,0,Los Angeles,CA,3
+metr,Merle Travis,0,1,2,1,65,Los Angeles,CA,1
+rere,Reprise Records,0,0,0,0,0,Los Angeles,CA,3
+gafa,Gambino-Familie,0,0,0,0,0,New York City,NY,2
+josi,Joseph Sica,Joe Paris,0,2,0,71,New York City,NY,1
 erri,Ermenegildo Rizzo,Jilly,3,2,1,88,New York City,NY,1
-japo,Jack Pourtney,NA,4,2,NA,67,New York City,NY,1
-frda,Frankie Dell,NA,2,2,NA,75,NA,NA,1
-frbu,Frankie Butch,Butch,2,2,NA,NA,NA,NA,1
-guga,Guiseppe Gallo,Joe,NA,2,NA,61,NA,NA,1
-jopag,Joseph Luco Pagano,NA,2,2,2,61,New York City,NY,1
-gefa,Genovese-Familie,NA,NA,NA,NA,NA,New York City,NY,2
-joga,Joseph N. Gallo,NA,2,2,2,83,New York City,NY,1
-ancar,Anthony Carillo,Tony the Shield,NA,2,NA,NA,NA,NA,1
-mima,Michael Maione,NA,2,2,2,85,NA,NA,1
-frde,Frank DeSisto,Fat Jimmy,NA,2,NA,NA,NA,NA,1
-roal,Ronald Alpert,NA,4,2,1,79,New York City,NY,1
-laco,La Cosa Nostra,NA,NA,NA,NA,NA,New York City,NY,2
-joyo,Joseph Youngs,Tommy Ryan,2,2,2,66,NA,NA,1
-frankgu,Frank Guglielmini,NA,NA,2,Na,82,NA,NA,1
-dasc,Danny Schwartz,NA,NA,2,NA,69,NA,NA,1
+japo,Jack Pourtney,0,4,2,0,67,New York City,NY,1
+frda,Frankie Dell,0,2,2,0,75,0,0,1
+frbu,Frankie Butch,Butch,2,2,0,0,0,0,1
+guga,Guiseppe Gallo,Joe,0,2,0,61,0,0,1
+jopag,Joseph Luco Pagano,0,2,2,2,61,New York City,NY,1
+gefa,Genovese-Familie,0,0,0,0,0,New York City,NY,2
+joga,Joseph N. Gallo,0,2,2,2,83,New York City,NY,1
+ancar,Anthony Carillo,Tony the Shield,0,2,0,0,0,0,1
+mima,Michael Maione,0,2,2,2,85,0,0,1
+frde,Frank DeSisto,Fat Jimmy,0,2,0,0,0,0,1
+roal,Ronald Alpert,0,4,2,1,79,New York City,NY,1
+laco,La Cosa Nostra,0,0,0,0,0,New York City,NY,2
+joyo,Joseph Youngs,Tommy Ryan,2,2,2,66,0,0,1
+frankgu,Frank Guglielmini,0,0,2,Na,82,0,0,1
+dasc,Danny Schwartz,0,0,2,0,69,0,0,1
 moli,Mortimer Lieberman,Lee Mortimer,4,2,1,59,Chicago,IL,1
 aasm,Aaron Smehoff,Allen Smiley,2,2,2,74,Los Angeles,CA,1
-jata,James Tarantino,NA,3,2,1,79,Los Angeles,CA,1
-kono,Kosher Nostra,yiddisch connection,NA,NA,NA,NA,New York City,NY,2
-padan,Patricia Dane,NA,1,1,1,77,Los Angeles,CA,1
+jata,James Tarantino,0,3,2,1,79,Los Angeles,CA,1
+kono,Kosher Nostra,yiddisch connection,0,0,0,0,New York City,NY,2
+padan,Patricia Dane,0,1,1,1,77,Los Angeles,CA,1
 chlo,Charles Hall Locher,Jon Hall,1,2,1,64,Los Angeles,CA,1
-jofi,Joseph Fischetti,NA,2,2,2,73,Chicago,IL,1
-chou,Chicago Outfit,NA,NA,NA,NA,NA,Chicago,IL,2
+jofi,Joseph Fischetti,0,2,2,2,73,Chicago,IL,1
+chou,Chicago Outfit,0,0,0,0,0,Chicago,IL,2
 abzw,Abner Zwillman,Longy,2,2,2,54,New York City,NY,1
-frro,Franklin Delano Roosevelt,NA,4,2,1,63,"Washington, D.C.",WA,1
-roha,Robert E. Hannegan,NA,4,2,1,46,St. Louis,MO,1
-bedo,Bella Dodd,NA,4,1,1,65,New York City,NY,1
+frro,Franklin Delano Roosevelt,0,4,2,1,63,"Washington, D.C.",WA,1
+roha,Robert E. Hannegan,0,4,2,1,46,St. Louis,MO,1
+bedo,Bella Dodd,0,4,1,1,65,New York City,NY,1
 adgr,Adrian Adolph Greenberg,Gilbert Adrian,4,2,1,76,Los Angeles,CA,1
 vima,Vito Anthony Marcantonio,Vito,4,2,1,51,New York City,NY,1
 edro,Edith Roosevelt,First Lady,4,1,1,87,"Washington, D.C.",WA,1
-abwe,Abraham B. Weinstein,NA,4,2,1,NA,NA,NA,1
+abwe,Abraham B. Weinstein,0,4,2,1,0,0,0,1
 euke,Eugene Curran Kelly,Gene,1,2,1,83,Los Angeles,CA,1
-bobu,Bobby Burns,NA,1,2,1,72,New York City,NY,1
-mafi,Mary Fischetti,NA,NA,1,1,80,NA,NA,1
-nifi,Nicholas Fischetti,NA,4,2,NA,64,Chicago,IL,1
-kaki,Kay Kino,NA,1,2,NA,NA,NA,NA,1
-sawe,Samuel Weiss,NA,1,2,1,67,Los Angeles,CA,1
-alma,Albert Maltz,NA,1,2,1,76,Los Angeles,CA,1
-joda,Joseph Davidson,Jo,1,2,1,81,NA,NA,1
-viru,Victor Russo,NA,4,2,1,71,NA,NA,1
-phmc,Phyllis McGuire,NA,1,1,1,89,Las Vegas,NV,1
+bobu,Bobby Burns,0,1,2,1,72,New York City,NY,1
+mafi,Mary Fischetti,0,0,1,1,80,0,0,1
+nifi,Nicholas Fischetti,0,4,2,0,64,Chicago,IL,1
+kaki,Kay Kino,0,1,2,0,0,0,0,1
+sawe,Samuel Weiss,0,1,2,1,67,Los Angeles,CA,1
+alma,Albert Maltz,0,1,2,1,76,Los Angeles,CA,1
+joda,Joseph Davidson,Jo,1,2,1,81,0,0,1
+viru,Victor Russo,0,4,2,1,71,0,0,1
+phmc,Phyllis McGuire,0,1,1,1,89,Las Vegas,NV,1
 gibo,Giuseppe Bonanno,Joseph Bonanno,2,2,3,97,New York,NY,1
 edfi,Edwin John Fisher,Eddie Fisher,1,2,1,82,Los Angeles,CA,1
-leol,leo olsen,NA,NA,2,NA,81,NA,NA,1
+leol,leo olsen,0,0,2,0,81,0,0,1
 naza,Natalia Nikolaevna Zakharenko,Natalie Wood,1,1,1,43,Los Angeles,CA,1
-rowa,Robert John Wagner,Robert Wagner,1,2,1,NA,Los Angeles,CA,1
+rowa,Robert John Wagner,Robert Wagner,1,2,1,0,Los Angeles,CA,1
 jofo,John C. Foreman,John Foreman,3,2,1,67,Los Angeles,CA,1
 miru,Milton A. Rudin,Mickey,4,2,1,95,Los Angeles,CA,1
 earo,Earl Hawley Robinson,Robinson,1,2,1,81,New York,NY,1
-stbu,Stanley Burke,NA,4,2,1,NA,Los Angeles,CA,1
-tesh,Ted Sherdeman,NA,3,2,1,78,Los Angeles,CA,1
+stbu,Stanley Burke,0,4,2,1,0,Los Angeles,CA,1
+tesh,Ted Sherdeman,0,3,2,1,78,Los Angeles,CA,1
 paro,Paul LeRoy Robeson,Paul Robeson,1,2,1,77,New York City,NY,1
-chba,Charlie Baron,Babe,3,2,1,NA,New York City,NY,1
+chba,Charlie Baron,Babe,3,2,1,0,New York City,NY,1
 alsi,Al Silvani,Silvani,4,2,1,86,New York City,NY,1
-alle,Alfred Levy,NA,3,2,1,NA,New York City,NY,1
+alle,Alfred Levy,0,3,2,1,0,New York City,NY,1
 frmi,Frank John Minnitt,Minitt,2,2,2,63,Los Angeles,CA,1
-frmil,Frank P. Milano,NA,4,2,2,NA,Los Angeles,CA,1
-geev,George Evans,NA,2,2,3,79,Los Angeles,CA,1
-joly,Joe Lynch,NA,4,2,1,NA,Los Angeles,CA,1
-otpr,Otto Ludwig Preminger,NA,1,2,1,80,New York,NY,1
+frmil,Frank P. Milano,0,4,2,2,0,Los Angeles,CA,1
+geev,George Evans,0,2,2,3,79,Los Angeles,CA,1
+joly,Joe Lynch,0,4,2,1,0,Los Angeles,CA,1
+otpr,Otto Ludwig Preminger,0,1,2,1,80,New York,NY,1
 jopr,Joseph Profaci,Don Peppino,2,2,3,65,New York,NY,1
-macl,Malcome Clarke,NA,1,2,1,88,Los Angeles,CA,1
+macl,Malcome Clarke,0,1,2,1,88,Los Angeles,CA,1
 jodi,Joe Di Maggio,Joe,4,2,1,85,Los Angeles,CA,1
-shst,Sheila Stewart,NA,1,1,1,84,Los Angeles,CA,1
-vimo,Vincent Mauro,NA,4,2,1,NA,New York City,NY,1
+shst,Sheila Stewart,0,1,1,1,84,Los Angeles,CA,1
+vimo,Vincent Mauro,0,4,2,1,0,New York City,NY,1
 anst,Anthony C. Strollo,Tony Bender,2,2,3,63,New York City,NY,1
-nast,Nate Stein,NA,4,2,1,NA,New York City,NY,1
-euwa,Eugene Warner,NA,NA,2,NA,80,NA,NA,1
-edvo,Edward Vogel,NA,2,2,2,NA,Chigago,IL,1
-fede,Felix John De Tullio,NA,2,3,3,71,Los Angeles,CA,1
+nast,Nate Stein,0,4,2,1,0,New York City,NY,1
+euwa,Eugene Warner,0,0,2,0,80,0,0,1
+edvo,Edward Vogel,0,2,2,2,0,Chigago,IL,1
+fede,Felix John De Tullio,0,2,3,3,71,Los Angeles,CA,1
 jodip,Joseph Charles Dippolito,Joe Dip,2,2,3,60,Los Angeles,CA,1
-loan,Los Angeles Crime Family,Dragna crime family,2,2,NA,NA,Los Angeles,CA,2
-anco,Anthony Consiglio,NA,1,2,1,NA,Connecticut,CT,1
-edto,Edward Torres,NA,4,2,1,71,Chigago,IL,1
+loan,Los Angeles Crime Family,Dragna crime family,2,2,0,0,Los Angeles,CA,2
+anco,Anthony Consiglio,0,1,2,1,0,Connecticut,CT,1
+edto,Edward Torres,0,4,2,1,71,Chigago,IL,1
 cama,Carlos Marcello,The Little Man,2,2,3,83,New Orleans,LA,1
 satr,Santo Trafficante Jr.,Louie Santos,2,2,3,73,Tampa,FL,1
-trfa,Trafficante Crime Family,Tampa Mafia,2,NA,NA,NA,Tampa,FL,2
-neor,New Orleans Crime Family,Matranga-Familie,2,NA,NA,NA,New Orleans,LA,2
+trfa,Trafficante Crime Family,Tampa Mafia,2,0,0,0,Tampa,FL,2
+neor,New Orleans Crime Family,Matranga-Familie,2,0,0,0,New Orleans,LA,2
 anci,Anthony Civella,Tony Ripe,2,2,2,76,New York City,NY,1
 caci,Carl Civella,Cork,2,2,2,84,New York City,NY,1
-nici,Nicholas Civella,Nick,2,2,3,71,NA,NA,1
-padam,Patsy D´Amore,NA,NA,2,NA,67,NA,NA,1
-mial,Miguel Alemán Valdés,Miguelito Alemán,4,2,1,82,Acapulto,NA,1
+nici,Nicholas Civella,Nick,2,2,3,71,0,0,1
+padam,Patsy D´Amore,0,0,2,0,67,0,0,1
+mial,Miguel Alemán Valdés,Miguelito Alemán,4,2,1,82,Acapulto,0,1
 ansc,Anthony M. Scotto,Scotto,2,2,2,87,New York City,NY,1
 joco,Joseph Colombo,Colombo,2,2,3,55,New York City,NY,1
-sosi,Sol C. Siegel,NA,4,2,1,79,New York CIty,NY,1
-eddu,Edward Dunbar,NA,NA,2,NA,78,NA,NA,1
-jomo,Joseph De Modica,NA,NA,2,NA,NA,NA,NA,1
-onca,Onofrio James Cavera Jr.,Big Jimmy,NA,2,NA,NA,NA,NA,1
-frgu,Francesco Guglielmini,NA,NA,2,NA,NA,NA,NA,1
-jogu,Joseph Guarnera,NA,NA,2,NA,NA,NA,NA,1
+sosi,Sol C. Siegel,0,4,2,1,79,New York CIty,NY,1
+eddu,Edward Dunbar,0,0,2,0,78,0,0,1
+jomo,Joseph De Modica,0,0,2,0,0,0,0,1
+onca,Onofrio James Cavera Jr.,Big Jimmy,0,2,0,0,0,0,1
+frgu,Francesco Guglielmini,0,0,2,0,0,0,0,1
+jogu,Joseph Guarnera,0,0,2,0,0,0,0,1
 raca,Raffaele James Capone,Bottles,2,2,2,80,Chicago,IL,1
-wimo,"William Morris Agency, Inc.",NA,NA,NA,NA,NA,NA,NA,3
-orsh,Captain Orest Shevtzov,NA,NA,2,NA,NA,NA,NA,1
-cono,Cosa Nostra,sizilianische Mafia,NA,NA,NA,NA,New York City,NY,2
-phgu,Phyllis Mc Guire,NA,1,2,1,89,New York City,NY,1
-jera,Jersay Rackets,NA,NA,NA,NA,NA,NA,NA,1
-jony,Johnny,NA,NA,2,NA,NA,NA,NA,1
+wimo,"William Morris Agency, Inc.",0,0,0,0,0,0,0,3
+orsh,Captain Orest Shevtzov,0,0,2,0,0,0,0,1
+cono,Cosa Nostra,sizilianische Mafia,0,0,0,0,New York City,NY,2
+phgu,Phyllis Mc Guire,0,1,2,1,89,New York City,NY,1
+jera,Jersay Rackets,0,0,0,0,0,0,0,1
+jony,Johnny,0,0,2,0,0,0,0,1
 lule,Lucille Fay LeSueur,Joan Crawford,1,1,1,73,Los Angeles,CA,1
-vifa,Vito Rocco Farinola,Vic Damone,1,2,1,89,NA,NA,1
-wabr,Warner Brothers,NA,NA,NA,NA,NA,Burbank,CA,3
+vifa,Vito Rocco Farinola,Vic Damone,1,2,1,89,0,0,1
+wabr,Warner Brothers,0,0,0,0,0,Burbank,CA,3
 losc,Louis Scaglione,Lou Monte,1,2,1,72,Lyndhurst,NJ,1
-xxfr,xx Francetti,NA,NA,NA,NA,NA,NA,NA,1
-frst,Frank Sinatra Studios,NA,NA,NA,NA,NA,NA,NA,3
-rios,Richard Osborne,NA,NA,2,1,NA,NA,NA,1
-hacr,Harry Lillis Crosby,Bing Crosby,1,2,1,74,NA,NA,1
-riba,Richard Bakalyan,NA,1,2,1,84,NA,NA,1
-aris,Artanis,NA,NA,NA,NA,NA,NA,NA,3
-frwe,Frederick R. Weisman,Fred Weisman,4,2,1,82,NA,NA,1
+xxfr,xx Francetti,0,0,0,0,0,0,0,1
+frst,Frank Sinatra Studios,0,0,0,0,0,0,0,3
+rios,Richard Osborne,0,0,2,1,0,0,0,1
+hacr,Harry Lillis Crosby,Bing Crosby,1,2,1,74,0,0,1
+riba,Richard Bakalyan,0,1,2,1,84,0,0,1
+aris,Artanis,0,0,0,0,0,0,0,3
+frwe,Frederick R. Weisman,Fred Weisman,4,2,1,82,0,0,1
 anca,Angelo DeCarlo,Gyp,2,2,2,71,New Jersey,NY,1
-sawa,Sanford Waterman,Sandy,3,2,1,NA,Las Vegas,NV,1
+sawa,Sanford Waterman,Sandy,3,2,1,0,Las Vegas,NV,1
 rapa,Raymond Loreda Salvatore Patriarca,"Raymond Patriarca
 ",2,2,3,76,Providence,RI,1
 joba,Joseph Barboza Jr.,The Animal,2,2,2,43,Boston,MA,1
 enta,Enrico Tameleo,Henry,2,2,2,83,Boston,MA,1
-frwei,Frank Weinstock,NA,4,2,1,NA,Palm Springs,CA,1
-jear,Jerry Arvenitas,NA,NA,2,NA,NA,NA,NA,1
+frwei,Frank Weinstock,0,4,2,1,0,Palm Springs,CA,1
+jear,Jerry Arvenitas,0,0,2,0,0,0,0,1
 juim,Judith Eileen Katherine Immoor,Judith Exner,1,1,1,39,Los Angeles,CA,1
 pada,Paul D'Amato,Skinny,1,2,1,75,Atlantic City,NY,1
-gedu,Generoso Del Duca,NA,2,2,2,73,New York City,NY,1
+gedu,Generoso Del Duca,0,2,2,2,73,New York City,NY,1
