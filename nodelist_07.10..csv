@@ -5,7 +5,7 @@ sagi,Sam Giancana,Momo,2,2,3,67,Chicago,IL,1
 chfi,Charles Fischetti,Trigger Happy Charlie,2,2,2,50,Chicago,IL,1
 rofi,Rocco Fischetti,Rocky,2,2,2,61,Chicago,IL,1
 gido,Giuseppe Antonio Doto,Joe Adonis,2,2,3,69,New York City,NY,1
-mesu,Mejer Suchowlański ,Honest Meyer,2,2,3,80,New York City,NY,1
+mesu,Mejer Suchowlański,Honest Meyer,2,2,3,80,New York City,NY,1
 besi,Benjamin Hymen Siegelbaum,Bugsy Siegel,2,2,2,41,New York City,NY,1
 igda,Ignazio Dragna,Jack Dragna,2,2,3,64,Los Angeles,CA,1
 frca,Francesco Castiglia,Frank Costello,2,2,3,81,New York City,NY,1
@@ -60,7 +60,7 @@ ande,Aniello John Dellacroce,Mr. Neil,2,2,2,71,New York City,NY,1
 mere,Mercury Records,NA,NA,NA,NA,NA,Chicago,IL,3
 rowe,Robert M. Weitman,NA,3,2,1,76,NA,NA,1
 shlu,Shirley Luster,June Christy,1,2,1,53,Springfield,IL,1
-gemu,George Lloyd Murphy,George Murphy,1,2,,89,New York City,NY,1
+gemu,George Lloyd Murphy,George Murphy,1,2,NA,89,New York City,NY,1
 care,Capitol Records,NA,NA,NA,NA,NA,Los Angeles,CA,3
 metr,Merle Travis,NA,1,2,1,65,Los Angeles,CA,1
 rere,Reprise Records,NA,NA,NA,NA,NA,Los Angeles,CA,3
@@ -72,7 +72,7 @@ frda,Frankie Dell,NA,2,2,NA,75,NA,NA,1
 frbu,Frankie Butch,Butch,2,2,NA,NA,NA,NA,1
 guga,Guiseppe Gallo,Joe,NA,2,NA,61,NA,NA,1
 jopag,Joseph Luco Pagano,NA,2,2,2,61,New York City,NY,1
-gefa,Genovese-Familie,NA,NA,NA,,NA,New York City,NY,2
+gefa,Genovese-Familie,NA,NA,NA,NA,NA,New York City,NY,2
 joga,Joseph N. Gallo,NA,2,2,2,83,New York City,NY,1
 ancar,Anthony Carillo,Tony the Shield,NA,2,NA,NA,NA,NA,1
 mima,Michael Maione,NA,2,2,2,85,NA,NA,1
@@ -84,8 +84,8 @@ frankgu,Frank Guglielmini,NA,NA,2,Na,82,NA,NA,1
 dasc,Danny Schwartz,NA,NA,2,NA,69,NA,NA,1
 moli,Mortimer Lieberman,Lee Mortimer,4,2,1,59,Chicago,IL,1
 aasm,Aaron Smehoff,Allen Smiley,2,2,2,74,Los Angeles,CA,1
-jata,James Tarantino,NA,3,2,1,79,Los Angeles ,CA,1
-kono,Kosher Nostra,yiddisch connection,NA,NA,,NA,New York City,NY,2
+jata,James Tarantino,NA,3,2,1,79,Los Angeles,CA,1
+kono,Kosher Nostra,yiddisch connection,NA,NA,NA,NA,New York City,NY,2
 padan,Patricia Dane,NA,1,1,1,77,Los Angeles,CA,1
 chlo,Charles Hall Locher,Jon Hall,1,2,1,64,Los Angeles,CA,1
 jofi,Joseph Fischetti,NA,2,2,2,73,Chicago,IL,1
@@ -107,42 +107,42 @@ sawe,Samuel Weiss,NA,1,2,1,67,Los Angeles,CA,1
 alma,Albert Maltz,NA,1,2,1,76,Los Angeles,CA,1
 joda,Joseph Davidson,Jo,1,2,1,81,NA,NA,1
 viru,Victor Russo,NA,4,2,1,71,NA,NA,1
-phmc,Phyllis McGuire,NA,1,1,1,89,Las Vegas ,NV,1
-gibo,Giuseppe Bonanno,Joseph Bonanno,2,2,3,97,New York ,NY,1
-edfi,Edwin John Fisher,Eddie Fisher ,1,2,1,82,Los Angeles ,CA,1
+phmc,Phyllis McGuire,NA,1,1,1,89,Las Vegas,NV,1
+gibo,Giuseppe Bonanno,Joseph Bonanno,2,2,3,97,New York,NY,1
+edfi,Edwin John Fisher,Eddie Fisher,1,2,1,82,Los Angeles,CA,1
 leol,leo olsen,NA,NA,2,NA,81,NA,NA,1
-naza,Natalia Nikolaevna Zakharenko,Natalie Wood ,1,1,1,43,Los Angeles ,CA,1
-rowa,Robert John Wagner,Robert Wagner,1,2,1,NA,Los Angeles ,CA,1
-jofo,John C. Foreman,John Foreman,3,2,1,67,Los Angeles ,CA,1
-miru,Milton A. Rudin ,Mickey,4,2,1,95,Los Angeles ,CA,1
+naza,Natalia Nikolaevna Zakharenko,Natalie Wood,1,1,1,43,Los Angeles,CA,1
+rowa,Robert John Wagner,Robert Wagner,1,2,1,NA,Los Angeles,CA,1
+jofo,John C. Foreman,John Foreman,3,2,1,67,Los Angeles,CA,1
+miru,Milton A. Rudin,Mickey,4,2,1,95,Los Angeles,CA,1
 earo,Earl Hawley Robinson,Robinson,1,2,1,81,New York,NY,1
-stbu,Stanley Burke,NA,4,2,1,NA,Los Angeles ,CA,1
-tesh,Ted Sherdeman,NA,3,2,1,78,Los Angeles ,CA,1
+stbu,Stanley Burke,NA,4,2,1,NA,Los Angeles,CA,1
+tesh,Ted Sherdeman,NA,3,2,1,78,Los Angeles,CA,1
 paro,Paul LeRoy Robeson,Paul Robeson,1,2,1,77,New York City,NY,1
-chba,Charlie Baron ,Babe,3,2,1,NA,New York City,NY,1
-alsi,Al Silvani ,Silvani,4,2,1,86,New York City,NY,1
-alle,Alfred Levy ,NA,3,2,1,NA,New York City,NY,1
-frmi,Frank John Minnitt,Minitt,2,2,2,63,Los Angeles ,CA,1
-frmil,Frank P. Milano,NA,4,2,2,,Los Angeles ,CA,1
-geev,George Evans ,NA,2,2,3,79,Los Angeles ,CA,1
-joly,Joe Lynch ,NA,4,2,1,NA,Los Angeles ,CA,1
+chba,Charlie Baron,Babe,3,2,1,NA,New York City,NY,1
+alsi,Al Silvani,Silvani,4,2,1,86,New York City,NY,1
+alle,Alfred Levy,NA,3,2,1,NA,New York City,NY,1
+frmi,Frank John Minnitt,Minitt,2,2,2,63,Los Angeles,CA,1
+frmil,Frank P. Milano,NA,4,2,2,NA,Los Angeles,CA,1
+geev,George Evans,NA,2,2,3,79,Los Angeles,CA,1
+joly,Joe Lynch,NA,4,2,1,NA,Los Angeles,CA,1
 otpr,Otto Ludwig Preminger,NA,1,2,1,80,New York,NY,1
 jopr,Joseph Profaci,Don Peppino,2,2,3,65,New York,NY,1
-macl,Malcome Clarke,NA,1,2,1,88,Los Angeles ,CA,1
-jodi,Joe Di Maggio,Joe,4,2,1,85,Los Angeles ,CA,1
-shst,Sheila Stewart,NA,1,1,1,84,Los Angeles ,CA,1
+macl,Malcome Clarke,NA,1,2,1,88,Los Angeles,CA,1
+jodi,Joe Di Maggio,Joe,4,2,1,85,Los Angeles,CA,1
+shst,Sheila Stewart,NA,1,1,1,84,Los Angeles,CA,1
 vimo,Vincent Mauro,NA,4,2,1,NA,New York City,NY,1
 anst,Anthony C. Strollo,Tony Bender,2,2,3,63,New York City,NY,1
-nast,Nate Stein ,NA,4,2,1,NA,New York City,NY,1
+nast,Nate Stein,NA,4,2,1,NA,New York City,NY,1
 euwa,Eugene Warner,NA,NA,2,NA,80,NA,NA,1
 edvo,Edward Vogel,NA,2,2,2,NA,Chigago,IL,1
-fede,Felix John De Tullio,NA,2,3,3,71,Los Angeles ,CA,1
-jodip,Joseph Charles Dippolito,Joe Dip,2,2,3,60,Los Angeles ,CA,1
-loan,Los Angeles Crime Family ,Dragna crime family,2,2,,NA,Los Angeles,CA,2
+fede,Felix John De Tullio,NA,2,3,3,71,Los Angeles,CA,1
+jodip,Joseph Charles Dippolito,Joe Dip,2,2,3,60,Los Angeles,CA,1
+loan,Los Angeles Crime Family,Dragna crime family,2,2,NA,NA,Los Angeles,CA,2
 anco,Anthony Consiglio,NA,1,2,1,NA,Connecticut,CT,1
 edto,Edward Torres,NA,4,2,1,71,Chigago,IL,1
 cama,Carlos Marcello,The Little Man,2,2,3,83,New Orleans,LA,1
-satr,Santo Trafficante Jr. ,Louie Santos,2,2,3,73,Tampa,FL,1
+satr,Santo Trafficante Jr.,Louie Santos,2,2,3,73,Tampa,FL,1
 trfa,Trafficante Crime Family,Tampa Mafia,2,NA,NA,NA,Tampa,FL,2
 neor,New Orleans Crime Family,Matranga-Familie,2,NA,NA,NA,New Orleans,LA,2
 anci,Anthony Civella,Tony Ripe,2,2,2,76,New York City,NY,1
@@ -157,7 +157,7 @@ eddu,Edward Dunbar,NA,NA,2,NA,78,NA,NA,1
 jomo,Joseph De Modica,NA,NA,2,NA,NA,NA,NA,1
 onca,Onofrio James Cavera Jr.,Big Jimmy,NA,2,NA,NA,NA,NA,1
 frgu,Francesco Guglielmini,NA,NA,2,NA,NA,NA,NA,1
-jogu,Joseph Guarnera ,NA,NA,2,NA,NA,NA,NA,1
+jogu,Joseph Guarnera,NA,NA,2,NA,NA,NA,NA,1
 raca,Raffaele James Capone,Bottles,2,2,2,80,Chicago,IL,1
 wimo,"William Morris Agency, Inc.",NA,NA,NA,NA,NA,NA,NA,3
 orsh,Captain Orest Shevtzov,NA,NA,2,NA,NA,NA,NA,1
