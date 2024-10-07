@@ -124,8 +124,8 @@ frsi,tesh,2,2,1,4,1947
 tesh,frsi,2,2,1,4,1947
 frsi,jofi,3,2,2,4,1947
 jofi,frsi,3,2,2,4,1947
-frsi,mico,1,2,2,4,1947
-mico,frsi,1,2,2,4,1947
+frsi,meco,1,2,2,4,1947
+meco,frsi,1,2,2,4,1947
 frsi,frmi,2,2,1,5,1947
 frmi,frsi,2,2,1,5,1947
 frmi,frmil,2,2,2,NA,1947
@@ -134,8 +134,8 @@ frsi,salu,2,2,2,4,1947
 salu,frsi,2,2,2,4,1947
 frsi,geev,2,2,1,4,1947
 geev,frst,2,2,1,4,1947
-mico,joly,2,2,3,5,1947
-joly,mico,2,2,3,5,1947
+meco,joly,2,2,3,5,1947
+joly,meco,2,2,3,5,1947
 frsi,joly,2,2,1,4,1947
 joly,frsi,2,2,1,4,1947
 frsi,otpr,2,2,1,4,1947
