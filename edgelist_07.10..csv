@@ -43,7 +43,7 @@ todo,pada,2,1,3,6,1943
 pada,todo,2,1,3,6,1943
 jata,frsi,2,2,NA,4,1948
 frsi,alle,2,2,1,4,1943
-alle ,frsi,2,2,1,4,1943
+alle,frsi,2,2,1,4,1943
 rowe,frsi,1,2,1,6,1944
 frsi,rowe,1,2,1,6,1944
 frsi,frro,1,2,1,6,1944
@@ -197,7 +197,7 @@ joga,gafa,1,2,2,6,1957
 frsi,jofi,2,2,1,4,1958
 jofi,frsi,2,2,1,4,1958
 frsi,sagi,3,2,2,4,1958
-sagi ,frsi,3,2,2,4,1958
+sagi,frsi,3,2,2,4,1958
 frsi,nast,1,2,1,5,1958
 nast,frsi,1,2,1,5,1958
 frsi,jofi,3,2,1,5,1958
@@ -239,7 +239,7 @@ pada,frsi,3,2,1,5,1959
 frsi,rere,3,2,1,4,1960
 rere,frsi,3,2,1,4,1960
 frsi,joke,3,2,1,4,1960
-joke ,frsi,3,2,1,4,1960
+joke,frsi,3,2,1,4,1960
 frsi,dema,3,2,1,4,1960
 frsi,pada,2,2,1,4,1960
 dema,frsi,2,2,1,4,1960
@@ -253,7 +253,7 @@ sagi,phmc,3,2,3,5,1960
 frsi,salu,2,2,2,4,1960
 salu,frsi,2,2,2,4,1960
 frsi,pada,3,2,3,5,1960
-pada ,frsi,3,2,3,5,1960
+pada,frsi,3,2,3,5,1960
 frsi,fede,1,2,3,5,1960
 fede,frsi,1,2,3,5,1960
 frsi,jodip,1,2,1,4,1960
@@ -271,7 +271,7 @@ anco,frsi,3,2,3,5,1961
 frsi,edto,2,2,3,5,1961
 edto,frsi,2,2,3,5,1961
 frsi,sada,3,2,1,5,1962
-sada ,frsi,3,2,1,5,1962
+sada,frsi,3,2,1,5,1962
 frsi,edfi,2,2,1,5,1962
 edfi,frsi,2,2,1,5,1962
 frsi,leol,1,2,1,4,1962
