@@ -27,6 +27,15 @@ unter ihren Kürzeln eingetragen:<br>
 
 ## ja068
 
+24.09.2024, gemeinsame Besprechung, 90 min
+30.09.2024, Datenerhebung, 120 min
+01.10.2024, Datenerhebung, 120 min
+02.10.2024, Datenerhebung, 300 min
+03.10.2024, Datenerhebung, 240 min
+05.10.2024, gemeinsame Besprechung, 60 min
+06.10.2024, Datenbereinigung Node- und Edgelist, 240 min
+11.10.2024, Datenerhebung und -korrektur, 120 min
+
 ## jk291
 30.09. - 12-19:30 
 01.10. - 13-18
