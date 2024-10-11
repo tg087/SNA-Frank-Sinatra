@@ -28,3 +28,8 @@ unter ihren Kürzeln eingetragen:<br>
 ## ja068
 
 ## jk291
+30.09. - 12-19:30 
+01.10. - 13-18
+02.10 - 14-18 uhr
+21.09. - Zoom Call 15-16:30
+6.10. - 20-24 Uhr 
