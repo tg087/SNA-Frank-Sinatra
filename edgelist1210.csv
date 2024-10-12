@@ -508,8 +508,8 @@ bofa,drafa,3,2,2,4,1930
 drafa,bofa,3,2,2,4,1930
 bofa,trfa,3,2,2,4,1930
 trfa,bofa,3,2,2,4,1930
-bofa,sama,3,2,2,,
-sama,bofa,,,,,
+bofa,sama,3,2,2,NA,NA
+sama,bofa,NA,NA,NA,NA,NA
 bofa,gadi ,3,2,2,6,1964
 gadi,bofa,3,2,2,6,1964
 galu,caga,2,2,2,4,NA
