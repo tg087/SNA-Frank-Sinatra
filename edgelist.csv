@@ -17,7 +17,6 @@ nasi,frsi,3,1,1,6,1940
 nasi,naba,3,1,1,6,1940
 todo,frsi,2,2,1,6,1940
 frsi,todo,2,2,1,6,1940
-frsi,todo,2,2,1,4,1942
 todo,frsi,2,2,1,4,1942
 rofi,todo,1,2,2,1,1942
 todo,rofi,1,2,2,1,1942
@@ -166,7 +165,6 @@ frsi,edvo,1,2,1,5,1958
 edvo,frsi,1,2,1,5,1958
 dicr,edvo,2,2,1,5,1958
 edvo,dicr,2,2,1,5,1958
-frsi,sagi,3,2,2,4,1959
 sagi,frsi,3,2,2,4,1959
 frsi,naza,1,2,3,5,1959
 naza,frsi,1,2,3,5,1959
@@ -232,17 +230,14 @@ cama,neor,3,1,2,NA,1962
 neor,cama,3,1,2,NA,1962
 frsi,hesa,3,2,1,4,1962
 hesa,frsi,3,2,1,4,1962
-frsi,sagi,3,2,1,4,1962
 sagi,frsi,3,2,1,4,1962
 frsi,sada,3,2,2,4,1962
 sada,frsi,3,2,2,4,1962
 frsi,dicr,3,2,2,4,1962
 dicr,frsi,3,2,2,4,1962
-frsi,sagi,3,2,3,NA,1963
 sagi,frsi,3,2,3,NA,1963
 frsi,gumo,2,2,1,NA,1963
 gumo,frsi,2,2,1,NA,1963
-frsi,nasi,3,1,3,5,1963
 nasi,frsi,3,1,3,5,1963
 frsi,vifa,1,2,2,6,1963
 vifa,frsi,1,2,2,6,1963
@@ -274,11 +269,9 @@ nici,caci,3,1,3,5,1963
 caci,nici,3,1,3,5,1963
 frsi,padam,1,2,3,5,1963
 padam,frsi,1,2,3,5,1963
-frsi,sagi,3,2,3,5,1963
 sagi,frsi,3,2,3,5,1963
 padam,chou,3,2,2,NA,1963
 chou,padam,3,2,2,NA,1963
-frsi,sagi,3,2,1,4,1964
 frsi,xxfr,1,2,1,4,1964
 frsi,frst,3,2,1,4,1964
 sagi,xxfr,1,2,1,4,1964
@@ -437,7 +430,6 @@ nifi,alca,1,1,NA,6,NA
 alca,nifi,1,1,NA,6,NA
 frsi,alma,1,2,1,6,NA
 alma,frsi,1,2,1,6,NA
-frsi,sagi,3,2,3,6,NA
 frsi,juim,2,2,3,6,NA
 frsi,joke,3,2,3,6,NA
 sagi,frsi,3,2,3,6,NA
@@ -562,3 +554,9 @@ defa,lufa,2,2,2,4,NA
 lufa,defa,2,2,2,4,NA
 defa,gefa,2,2,2,4,NA
 gefa,defa,2,2,2,4,NA
+frsi,nasi,3,1,3,5,1963
+frsi,todo,2,2,1,4,1942
+frsi,sagi,3,2,2,4,1959
+frsi,sagi,3,2,1,4,1962
+frsi,sagi,3,2,3,5,1963
+frsi,sagi,3,2,1,4,1964
