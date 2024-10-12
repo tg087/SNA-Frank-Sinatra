@@ -47,8 +47,8 @@ earo,frsi,1,2,1,4,1945
 jopag,gefa,2,2,2,6,1946
 rofi,frsi,1,2,NA,6,1946
 frsi,rofi,1,2,NA,6,1946
-jofi,frsi,1,2,NA,6,1946
-frsi,jofi,1,2,NA,6,1946
+jofi,frsi,3,2,1,6,1946
+frsi,jofi,3,2,1,6,1946
 bobu,frsi,1,2,1,6,1946
 frsi,bobu,1,2,1,6,1946
 jofi,bobu,1,2,3,6,1946
@@ -67,8 +67,6 @@ frsi,paro,1,2,1,5,1946
 paro,frsi,1,2,1,5,1946
 frsi,chba,2,2,1,4,1946
 chba,frsi,2,2,1,4,1946
-frsi,jofi,3,2,1,NA,1946
-jofi,frsi,3,2,1,NA,1946
 chba,chfi,1,2,1,4,1946
 chfi,chba,1,2,1,4,1946
 chfi,jofi,1,1,1,4,1946
