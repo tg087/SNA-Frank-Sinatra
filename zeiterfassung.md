@@ -20,7 +20,8 @@ unter ihren Kürzeln eingetragen:<br>
 03.10.2024,Datenerhebung,300min  
 05.10.2024,gemeinsame Besprechung,60min  
 07.10.2024,Datenbereinigung Nodelist & Erstellen iGraph Objekt,180min  
-14.10.2024,Datenerhebung/Datenbereinigung,60min  
+14.10.2024,Datenerhebung/Datenbereinigung,60min
+15.10.2024,Datenerhebung,90min  
 
 ## la048
 
@@ -38,8 +39,8 @@ unter ihren Kürzeln eingetragen:<br>
 11.10.2024, Datenerhebung und -korrektur, 120 min  
 
 ## jk291
-30.09. - 12-19:30 
-01.10. - 13-18
-02.10 - 14-18 uhr
-21.09. - Zoom Call 15-16:30
-6.10. - 20-24 Uhr 
+30.09. - 12-19:30   
+01.10. - 13-18  
+02.10 - 14-18 Uhr  
+21.09. - Zoom Call 15-16:30  
+6.10. - 20-24 Uhr   
