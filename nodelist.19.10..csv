@@ -1,4 +1,4 @@
-id,name,nickname,job,sex,position,age_death,city,state,type
+id,id_name,nickname,job,sex,position,age_death,city,state,type
 cofa,Colombo-Familie,NA,2,NA,NA,NA,New York City,NY,2
 lufa,Lucchese-Familie,NA,2,NA,NA,NA,New York City,NY,2
 bofa,Bonanno-Familie,NA,2,NA,NA,NA,New York City,NY,2
