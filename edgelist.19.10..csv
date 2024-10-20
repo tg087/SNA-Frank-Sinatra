@@ -910,3 +910,7 @@ defa,trfa,3,2,2,4,1930
 gefa,trfa,3,2,2,4,1930
 mafa,trfa,3,2,2,4,1930
 drafa,trfa,3,2,2,4,1930
+side,fifa,2,2,2,4,NA
+side,bofa,2,2,2,4,NA
+fifa,side,2,2,2,4,NA
+side,fifa,2,2,2,4,NA
