@@ -22,6 +22,8 @@ unter ihren Kürzeln eingetragen:<br>
 07.10.2024,Datenbereinigung Nodelist & Erstellen iGraph Objekt,180min  
 14.10.2024,Datenerhebung/Datenbereinigung,60min
 15.10.2024,Datenerhebung,90min  
+19.10.2024,Fehlerbehebung,60min  
+
 
 ## la048
 
