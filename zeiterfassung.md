@@ -23,7 +23,8 @@ unter ihren Kürzeln eingetragen:<br>
 14.10.2024,Datenerhebung/Datenbereinigung,60min
 15.10.2024,Datenerhebung,90min  
 19.10.2024,Fehlerbehebung,60min  
-20.10.2024,Datenanalyse,30min
+20.10.2024,Datenanalyse,30min  
+22.10.2024,Datenanalyse,60min  
 
 
 ## la048
