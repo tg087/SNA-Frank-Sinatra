@@ -24,7 +24,9 @@ unter ihren Kürzeln eingetragen:<br>
 15.10.2024,Datenerhebung,90min  
 19.10.2024,Fehlerbehebung,60min  
 20.10.2024,Datenanalyse,30min  
-22.10.2024,Datenanalyse,60min  
+22.10.2024,Datenanalyse,60min
+23.10.2024,Gruppenbesprechung Zoom,60min  
+29.10.2024,Vorbereitung Forschungsbericht,60min  
 
 
 ## la048
