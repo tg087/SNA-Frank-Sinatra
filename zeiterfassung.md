@@ -27,6 +27,7 @@ unter ihren Kürzeln eingetragen:<br>
 22.10.2024,Datenanalyse,60min
 23.10.2024,Gruppenbesprechung Zoom,60min  
 29.10.2024,Vorbereitung Forschungsbericht,60min  
+02.11.2024,Literaturrecherche & Vorbereitung Einleitung,120min  
 
 
 ## la048
