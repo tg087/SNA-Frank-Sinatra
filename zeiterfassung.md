@@ -28,6 +28,9 @@ unter ihren Kürzeln eingetragen:<br>
 23.10.2024,Gruppenbesprechung Zoom,60min  
 29.10.2024,Vorbereitung Forschungsbericht,60min  
 02.11.2024,Literaturrecherche & Vorbereitung Einleitung,120min  
+05.11.2024,Verfassen Einleitung,180min  
+07.11.2024,Verfassen Einleitung,60min  
+08.11.2024,Vorbereitung Präsentation,30min  
 
 
 ## la048
