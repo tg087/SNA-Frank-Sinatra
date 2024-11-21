@@ -102,7 +102,6 @@ Bundesstaat in dem die Stadt liegt, codiert nach Abkürzungen siehe:
 <https://github.com/tg087/SNA-Frank-Sinatra/blob/main/abk%C3%BCrzungen_bundesstaaten.csv>
 
 **type**  
-Unterscheidung der Art des Akteurs in Person, Familie und Organisation  
+Unterscheidung der Art des Akteurs in Person oder Familie  
 1 = Person  
-2 = Familie  
-3 = Organisation
+2 = Familie
