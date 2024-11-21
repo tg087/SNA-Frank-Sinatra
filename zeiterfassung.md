@@ -30,7 +30,9 @@ unter ihren Kürzeln eingetragen:<br>
 02.11.2024,Literaturrecherche & Vorbereitung Einleitung,120min  
 05.11.2024,Verfassen Einleitung,180min  
 07.11.2024,Verfassen Einleitung,60min  
-08.11.2024,Vorbereitung Präsentation,30min  
+08.11.2024,Vorbereitung Präsentation,30min
+20.11.2024,Erstellung Teilnetzwerke,120min  
+21.11.2024,Meeting Besprechung Forschungsbericht,90min  
 
 
 ## la048
