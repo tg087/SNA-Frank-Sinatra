@@ -278,7 +278,6 @@ frsi,padam,1,2,3,5,1963
 frsi,sagi,3,2,3,5,1963
 frsi,sagi,3,2,1,4,1964
 frsi,xxfr,1,2,1,4,1964
-frsi,frst,3,2,1,4,1964
 frsi,rios,1,2,3,2,1964
 frsi,dicr,3,2,3,5,1964
 frsi,hacr,2,2,1,NA,1964
@@ -308,9 +307,6 @@ frsi,juim,2,2,3,6,NA
 frsi,joke,3,2,3,6,NA
 frsi,chsi,3,1,3,6,1948
 frsin,naba,3,1,3,5,1944
-frst,frsi,3,2,1,4,1964
-frst,sagi,2,2,1,4,1964
-frst,xxfr,1,2,1,4,1964
 frwe,frsi,1,2,3,2,1966
 frwe,dicr,1,2,3,6,1966
 frwei,frsi,1,2,3,1,1974
@@ -328,7 +324,6 @@ geca,gefa,3,2,2,6,NA
 geca,abzw,1,2,3,6,NA
 geca,gumo,1,2,3,6,NA
 gedu,frsi,1,2,NA,6,1960
-geev,frst,2,2,1,4,1947
 gefa,gima,3,1,2,6,1922
 gefa,cofa,3,2,2,4,1930
 gefa,bofa,3,2,2,4,1930
@@ -518,7 +513,6 @@ sagi,frsi,3,2,1,4,1962
 sagi,frsi,3,2,3,NA,1963
 sagi,frsi,3,2,3,5,1963
 sagi,xxfr,1,2,1,4,1964
-sagi,frst,2,2,1,4,1964
 sagi,frsi,3,2,1,4,1964
 sagi,frsi,3,2,3,6,NA
 sagi,juim,3,2,3,6,NA
