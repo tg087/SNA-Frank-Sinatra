@@ -33,7 +33,8 @@ unter ihren Kürzeln eingetragen:<br>
 08.11.2024,Vorbereitung Präsentation,30min
 20.11.2024,Erstellung Teilnetzwerke,120min  
 21.11.2024,Meeting Besprechung Forschungsbericht,90min  
-
+22.11.2024,Teilnetzwerke erstellen,120min  
+23.11.2024,Teilnetzwerke erstellen,60min  
 
 ## la048
 
