@@ -77,6 +77,7 @@ Profit wurde angenommen, sobald die Personen – unabhängig davon, ob durch leg
 Freundschaft und Kontakt unterschieden wir wie folgt: Kontakt wurde definiert, wenn die Personen weniger als dreimal in Zusammenhang miteinander genannt wurden. Freundschaft wurde benutzt, wenn die Personen dreimal oder öfter in Zusammenhang genannt wurden oder wenn in den Akten ausdrücklich auf eine enge Beziehung, wie durch Freundschaft oder Verwandtschaft, hingewiesen wurde.
 
 Die Kategorien bei activity: 
+
 1 = Drohung  
 2 = Überfall  
 3 = Mord  
@@ -131,7 +132,7 @@ Die Haupttätigkeit der Personen in die wir unterteilten sind:
 
 **sex**  
 
-Diese Kategorie bezieht sich auf das Geschlecht der jeweiligen Person. Aufgrund des zeitlichen Kontexts unserer Analyse war es nicht erforderlich, eine weitere Unterscheidung, wie beispielsweise divers, vorzunehmen.
+Diese Kategorie bezieht sich auf das Geschlecht der jeweiligen Person. Aufgrund des zeitlichen Kontexts unserer Analyse war es nicht erforderlich, eine weitere Unterscheidung, wie beispielsweise divers, vorzunehmen. Außerdem wollten wir mit dieser Unterscheidung ermitteln ob die Mafia Mitglieder rund um Sinatra nur männlich oder auch weiblich waren.
 
 Unsere Kategorien:
 
