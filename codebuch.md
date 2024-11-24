@@ -116,7 +116,7 @@ Frank Costello (eigentlich Francesco Castiglia)
 
 Da die unterschiedlichen Personen oft eine Vielzahl an Spitznamen besaßen und nicht immer nur einen eindeutigen Spitznamen hatten, war es notwendig, einen einheitlichen Spitznamen auszuwählen, um Missverständnisse zu vermeiden. Wir entschieden uns, jeweils den gängigsten Spitznamen zu verwenden.
 
-Den gängigsten Spitznamen ermittelten wir, indem wir alle bekannten Spitznamen der jeweiligen Personen filterten und analysierten, welcher Spitzname am häufigsten in den FBI-Akten erwähnt wurde. Der am häufigsten genannte Spitzname wurde dann einheitlich verwendet.
+Den gängigsten Spitznamen ermittelten wir, indem wir alle bekannten Spitznamen der jeweiligen Personen filterten nach der häufigkeit. Der am häufigsten genannte Spitzname wurde dann einheitlich verwendet.
 
 **job**  
 
