@@ -35,6 +35,7 @@ unter ihren Kürzeln eingetragen:<br>
 21.11.2024,Meeting Besprechung Forschungsbericht,90min  
 22.11.2024,Teilnetzwerke erstellen,120min  
 23.11.2024,Teilnetzwerke erstellen,60min  
+28.11.2024,Forschungsbericht,120min  
 
 ## la048
 
