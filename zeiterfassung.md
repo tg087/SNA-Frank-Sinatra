@@ -36,7 +36,7 @@ unter ihren Kürzeln eingetragen:<br>
 22.11.2024,Teilnetzwerke erstellen,120min  
 23.11.2024,Teilnetzwerke erstellen,60min  
 28.11.2024,Forschungsbericht,120min  
-
+29.11.2024,Forschungsbericht,45min  
 ## la048
 
 ## mm369
