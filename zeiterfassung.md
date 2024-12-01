@@ -66,8 +66,11 @@ unter ihren Kürzeln eingetragen:<br>
 
 ## la048
 Besprechungen insges. ca. 300 Minuten
+
 Datenerhebung FBI Files, inklusive Eintragungen Edge- und Nodelist 800 Minuten
+
 Editartikel+Interview mit Mattioli insgesamt 900 Minuten Arbeitszeit
+
 Präsi 1 (drittes Semester) 40 Minuten + Präsi 2 (viertes Semester) 20 Minuten
 
 
