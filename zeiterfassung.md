@@ -60,7 +60,9 @@ unter ihren Kürzeln eingetragen:<br>
 
 28.11.2024,Forschungsbericht,120min  
 
-29.11.2024,Forschungsbericht,45min  
+29.11.2024,Forschungsbericht,45min
+
+30.11.2024,Forschungsbericht,420min  
 
 ## la048
 
