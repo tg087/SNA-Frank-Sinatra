@@ -69,6 +69,10 @@ Besprechungen insges. ca. 300 Minuten
 
 Datenerhebung FBI Files, inklusive Eintragungen Edge- und Nodelist 800 Minuten
 
+Ergänzende Recherche Kaplan 2010/2015): 300 Minuten
+
+(Versuchte) Akquise Interviewpartner 120 Minuten
+
 Editartikel+Interview mit Mattioli insgesamt 900 Minuten Arbeitszeit
 
 Präsi 1 (drittes Semester) 40 Minuten + Präsi 2 (viertes Semester) 20 Minuten
