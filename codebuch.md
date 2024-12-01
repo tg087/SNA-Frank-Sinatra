@@ -120,7 +120,7 @@ Den gängigsten Spitznamen ermittelten wir, indem wir alle bekannten Spitznamen 
 
 **job**  
 
-Diese Kategorie stellte die Haupttätigkeiten der jeweiligen Personen aus Sinatras Netzwerk dar. Sie zeigte speziell auf, dass Sinatra laut den FBI-Akten vermutlich mit Mafia-Mitgliedern in Verbindung stand. Dies würde seine Behauptungen widerlegen, niemals Kontakt zur Mafia gehabt zu haben, und ist daher zentral für unsere Forschungsfrage.
+Diese Kategorie stellte die Haupttätigkeiten der jeweiligen Personen aus Sinatras Netzwerk dar. Sie zeigte speziell auf, dass Sinatra laut den FBI-Akten vermutlich mit Mafia-Mitgliedern in Verbindung stand. Dies würde seine Behauptungen widerlegen, niemals Kontakt zur Mafia gehabt zu haben, und ist daher zentral für unsere Forschungsfrage. Des Weiteren konnte man durch die Kategorie Künstler, zu der beispielsweise Sänger oder Moderatoren zählten, sowie durch die Kategorien Manager und Sonstiges einen allgemeineren Blickwinkel erhalten, der nicht nur auf das Mafia-Netzwerk beschränkt war.
 
 
 Die Haupttätigkeit der Personen in die wir unterteilten sind: 
@@ -182,13 +182,6 @@ Bundesstaat in dem die Stadt liegt, codiert nach Abkürzungen siehe:
 
 Diese Kategorie unterscheidet die Art des Akteurs und gibt an, ob es sich um eine Person oder eine Mafia-Familie handelt. Mit der Kategorie Type wird klar, ob eine Verbindung direkt mit einer bestimmten Person, wie beispielsweise Frank Sinatra und Lucky Luciano, bestand oder ob sie einer Mafia-Familie, wie der Genovese-Familie, zugeordnet werden kann.
 
-Diese Einteilung ermöglichte es uns unter anderem, zu analysieren, welche Mafia-Familien miteinander in Kontakt standen. Darüber hinaus konnten wir beobachten, wie einzelne Mafia-Personen mit bestimmten Mafia-Familien in Verbindung standen und welchen Familien sie zugehörig waren.
-
-Zusätzlich bot die Kategorie die Möglichkeit, zu untersuchen, ob Sinatra nur mit einzelnen Mafia-Personen oder auch mit mächtigen, einflussreichen und kriminell organisierten Familien in Kontakt stand. Diese Informationen lieferten wertvolle Hinweise darauf, wie tiefgreifend und mächtig das kriminelle Netzwerk um Sinatra gewesen sein muss.
-
-Bei den Mafia-Familien konzentrierten wir uns auf die sogenannten Big Five, also die fünf größten italo-amerikanischen Mafia-Familien. Diese sind:
-die Bonanno-Familie, die Colombo-Familie, die Gambino-Familie, die Genovese-Familie und die Lucchese-Familie.
-Diese fünf Familien waren zu Sinatras Zeit besonders bekannt für ihre dominierende Rolle im organisierten Verbrechen.
 
 Unsere Kategorien: 
 
