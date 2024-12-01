@@ -19,41 +19,23 @@ unter ihren Kürzeln eingetragen:<br>
 02.10.2024,Datenerhebung,120min  
 03.10.2024,Datenerhebung,300min  
 05.10.2024,gemeinsame Besprechung,60min  
-
 07.10.2024,Datenbereinigung Nodelist & Erstellen iGraph Objekt,180min 
-
 14.10.2024,Datenerhebung/Datenbereinigung,60min
-
 15.10.2024,Datenerhebung,90min  
-
 19.10.2024,Fehlerbehebung,60min  
-
 20.10.2024,Datenanalyse,30min  
-
 22.10.2024,Datenanalyse,60min
-
 23.10.2024,Gruppenbesprechung Zoom,60min 
-
 29.10.2024,Vorbereitung Forschungsbericht,60min  
-
 02.11.2024,Literaturrecherche & Vorbereitung Einleitung,120min  
-
 05.11.2024,Verfassen Einleitung,180min  
-
 07.11.2024,Verfassen Einleitung,60min  
-
 08.11.2024,Vorbereitung Präsentation,30min
-
 20.11.2024,Erstellung Teilnetzwerke,120min 
-
 21.11.2024,Meeting Besprechung Forschungsbericht,90min  
-
 22.11.2024,Teilnetzwerke erstellen,120min  
-
 23.11.2024,Teilnetzwerke erstellen,60min  
-
 28.11.2024,Forschungsbericht,120min  
-
 29.11.2024,Forschungsbericht,45min  
 
 ## la048
