@@ -42,6 +42,7 @@ unter ihren Kürzeln eingetragen:<br>
 
 ## mm369
 21.09.2024,gemeinsame Besprechung & Überarbeitung von Edge- und Nodelist,90min  
+
 22.09.2024,Datenerhebung, 240 min  
 
 01.10.2024,Datenerhebung, 180 min  
