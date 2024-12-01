@@ -40,7 +40,12 @@ unter ihren Kürzeln eingetragen:<br>
 ## la048
 
 ## mm369
-
+21.09.2024,gemeinsame Besprechung & Überarbeitung von Edge- und Nodelist,90min  
+22.09.2024, Datenerhebung, 240 min  
+01.10.2024, Datenerhebung, 180 min  
+02.10.2024, Datenerhebung, 240 min  
+03.10.2024, Datenerhebung, 240 min  
+05.10.2024,gemeinsame Besprechung,60min  
 ## ja068
 
 24.09.2024, gemeinsame Besprechung, 90 min  
