@@ -65,6 +65,11 @@ unter ihren Kürzeln eingetragen:<br>
 30.11.2024,Forschungsbericht,420min  
 
 ## la048
+Besprechungen insges. ca. 300 Minuten
+Datenerhebung FBI Files, inklusive Eintragungen Edge- und Nodelist 800 Minuten
+Editartikel+Interview mit Mattioli insgesamt 900 Minuten Arbeitszeit
+
+
 
 ## mm369
 21.09.2024,gemeinsame Besprechung & Überarbeitung von Edge- und Nodelist,90min  
