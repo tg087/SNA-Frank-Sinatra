@@ -41,11 +41,28 @@ unter ihren Kürzeln eingetragen:<br>
 
 ## mm369
 21.09.2024,gemeinsame Besprechung & Überarbeitung von Edge- und Nodelist,90min  
-22.09.2024, Datenerhebung, 240 min  
-01.10.2024, Datenerhebung, 180 min  
-02.10.2024, Datenerhebung, 240 min  
-03.10.2024, Datenerhebung, 240 min  
-05.10.2024,gemeinsame Besprechung,60min  
+22.09.2024,Datenerhebung, 240 min  
+01.10.2024,Datenerhebung, 180 min  
+02.10.2024,Datenerhebung, 240 min  
+03.10.2024,Datenerhebung, 240 min  
+05.10.2024,gemeinsame Besprechung,60min
+14.10.2024,Datenerhebung/Datenbereinigung,60min
+19.10.2024,,Fehlerbehebung Nodelist,60min
+20.10.2024,Fehlerbehebung Nodelist,120min
+23.10.2024,Gruppenbesprechung Zoom,60min  
+27.10.2024,Vorbereitung Forschungsbericht,60min  
+02.11.2024,Literaturrecherche & Vorbereitung Datenerhebung/Zugang/Bereinigung,120min
+05.11.2024,Verfassen vom Abschnitt Datenerhebung/Zugang/Bereinigung,120min
+06.11.2024,Verbesserung vom Abschnitt Datenerhebung/Zugang/Bereinigung,60min
+14.11.2024,Vorbereitung Präsentation,30min
+18.11.2024,Codebuch für den Anhang und Kategoriebegründngen,120min
+19.11.2024,Überarbeitung des Codebuches,60min
+21.11.2024,Meeting Besprechung Forschungsbericht,90min  
+26.11.2024,Überarbeitung des Forschungsberichtes,120min
+28.11.2014,Überarbeitung des Forschungsberichtes,180min
+30.11.2024,Überarbeitung des Forschungsberichtes,240min
+01.12.2024,Überarbeitung des Forschungsberichtes und finalisierung,360min
+
 ## ja068
 
 24.09.2024, gemeinsame Besprechung, 90 min  
